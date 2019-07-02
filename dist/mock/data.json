@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/Jay 同名专辑_7946170535396804.jpg",
+        "audio": "/source/0101.可爱女人.mp3",
+        "song": "可爱女人",
+        "album": "Jay",
+        "singer": "周杰伦",
+        "duration": 239,
+        "isLike": true
+    },
+    {
+        "image": "/source/世界_19193074974743620.jpg",
+        "audio": "/source/逃跑计划 - 夜空中最亮的星.mp3",
+        "song": "夜空中最亮的星",
+        "album": "世界",
+        "singer": "逃跑计划",
+        "duration": 252,
+        "isLike": false
+    },
+    {
+        "image": "/source/范特西_109951163076302925.jpg",
+        "audio": "/source/0205.开不了口.mp3",
+        "song": "开不了口",
+        "album": "范特西",
+        "singer": "周杰伦",
+        "duration": 285,
+        "isLike": false
+    }
+]
