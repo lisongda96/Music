@@ -1,7 +1,7 @@
 [
     {
-        "image": "/source/Jay 同名专辑_7946170535396804.jpg",
-        "audio": "/source/0101.可爱女人.mp3",
+        "image": "../source/Jay 同名专辑_7946170535396804.jpg",
+        "audio": "../source/0101.可爱女人.mp3",
         "song": "可爱女人",
         "album": "Jay",
         "singer": "周杰伦",
